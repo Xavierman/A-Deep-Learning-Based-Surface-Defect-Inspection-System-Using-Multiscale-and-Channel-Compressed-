@@ -12,13 +12,13 @@ The paper is available at  |[`[PDF Download]`](https://ieeexplore.ieee.org/abstr
 Industrial workpieces commonly contain complex structures, including hallow regions, welding joints, or rivet holes. Such obvious structural interference will inevitably cause a cluttered background and mislead the classification results. Moreover, the sizes of various surface defects might change significantly. Last but not least, it is extremely time-consuming and not scalable to capture large-scale defect data sets to train deep CNN models. To address the challenges mentioned earlier, we first proposed to incorporate multiple convolutional layers with different kernel sizes to increase the receptive field and to generate multiscale features. The proposed model can better handle the cluttered background.
 and defects of various sizes.
 
-### Multi-light source illumination Dataset
+### USB-SD Dataset
 Google Drive: https://drive.google.com/file/d/1AKqfTXPVBcRyLawUdqcCtv2eGSv6wHU0/view?usp=sharing
 
 Baidu Cloud: https://pan.baidu.com/s/1j03nlOtiG1z8N5vsE0HAYQ?pwd=qak7  Password：qak7 
 
 
-<img src="pic1.png" width="70%" height="70%">
+<img src="pic1.png" width="90%" height="90%">
 
 
 
